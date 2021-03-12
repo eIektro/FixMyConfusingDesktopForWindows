@@ -3,6 +3,8 @@ Archives, documents, texts, executable files, images stacked on the Windows Desk
 
 ## Using
 
-```Go
-go run .
+```bash
+go mod init example.com/m
+
+go run hello.go
 ```
